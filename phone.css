@@ -16,12 +16,6 @@ nav ul li a{
     margin-left: 4px;
 }
 
-.navItems{
-    padding: 15px;
-    margin-left: 30px;
-}
-
-
 .main{
     background-size: cover;
     background-position: center;
@@ -29,7 +23,7 @@ nav ul li a{
     width: 100vh auto;
     padding-left: 55px;
     position: static;
-    padding-right: 45px;
+    padding-right: 35px;
 }
 
 .pic1{
@@ -51,7 +45,12 @@ nav ul li a{
 }
 
 .mainContent p{
-    margin-left:  -60px;
-    margin-right: -60px;
+    margin-top: 40px;
+    margin-left:  -55px;
+    margin-right: -65px;
     font-size: 100%;
+}
+
+.mainContent home{
+    margin-top: -35px;
 }
