@@ -1,0 +1,48 @@
+.navbar{
+    display: block;
+}
+
+.logo img{
+    margin-left: 147px;
+    height: 80px;
+}
+
+.navItems{
+    padding: 15px;
+    margin-left: 30px;
+}
+
+
+.main{
+    background-size: cover;
+    background-position: center;
+    height: 40vh auto;
+    width: 100vh auto;
+    padding-left: 55px;
+    position: static;
+    padding-right: 20px;
+}
+
+.pic1{
+    height: 23.1vh auto;
+    width: 100vw;
+    margin-left: -110px;
+}
+
+.pic2{
+    height: 23.1vh auto;
+    width: 100vw;
+    margin-left: -110px;
+}
+
+.pic3{
+    height: 23.1vh auto;
+    width: 100vw;
+    margin-left: -110px;
+}
+
+.mainContent p{
+    margin-left:  -60px;
+    margin-right: -60px;
+    font-size: 100%;
+}
