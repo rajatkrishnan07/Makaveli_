@@ -11,6 +11,10 @@
     height: 80px;
 }
 
+nav ul{
+    overflow-y: hidden;
+}
+
 nav ul li a{
     padding: 6px;
     margin-left: 4px;
