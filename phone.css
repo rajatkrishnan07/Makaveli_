@@ -65,35 +65,36 @@ nav ul li a{
     margin-top: -50px;
 }
 
+
 .musicCDS{
     display: block;
 }
 
 .cd1, .cd2, .cd3, .cd5, .cd6{
-    margin-left: -115px;
+    margin-left: -85px;
     margin-right: 90px;
     height: 45vh;
-    width: 95vw;
+    width: 85vw;
 }
 
 .cd4{
-    margin-left: -120px;
+    margin-left: -100px;
     margin-right: 90px;
     height: 45vh;
-    width: 95vw;
+    width: 90vw;
 }
 
 .cd1A{
-      margin-top: -110px;
+      margin-top: -100px;
       height: 45vh;
-      width: 80vw;
+      width: 85vw;
 }
 
 .cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
-    margin-left: -300px;
+    margin-left: -290px;
     margin-right: 90px;
     height: 45vh;
-    width: 100vw;
+    width: 90vw;
 }
 
 
@@ -126,4 +127,5 @@ nav ul li a{
 .musicCDS2 h2, h3{
     margin-top: -30px;
 }
+
 
