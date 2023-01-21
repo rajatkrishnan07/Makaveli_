@@ -1,0 +1,129 @@
+
+*{
+    position: relative;
+}
+
+.container{
+    overflow-x: hidden;
+}
+
+.navbar{
+    display: block;
+}
+
+.logo img{
+    margin-left: 153px;
+    height: 80px;
+}
+
+nav ul{
+    overflow-y: hidden;
+}
+
+nav ul li a{
+    padding: 5px;
+    width: auto;
+}
+
+.main{
+    background-size: cover;
+    background-position: center;
+    height: 40vh auto;
+    width: 100vh auto;
+    padding-left: 55px;
+    position: static;
+    padding-right: 35px;
+}
+
+.pic1{
+    height: 23.1vh;
+    width: 100vw;
+    margin-left: -90px;
+}
+
+.pic2{
+    height: 23.1vh;
+    width: 100vw;
+    margin-left: -110px;
+}
+
+.pic3{
+    height: 23.1vh;
+    width: 100vw;
+    margin-left: -110px;
+}
+
+.mainContent p{
+    margin-top: 40px;
+    margin-left:  -55px;
+    margin-right: -55px;
+    font-size: 16px;
+    font-family:monospace;
+}
+
+.mainContent home{
+    margin-top: -50px;
+}
+
+.musicCDS{
+    display: block;
+}
+
+.cd1, .cd2, .cd3, .cd5, .cd6{
+    margin-left: -115px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 95vw;
+}
+
+.cd4{
+    margin-left: -120px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 95vw;
+}
+
+.cd1A{
+      margin-top: -110px;
+      height: 45vh;
+      width: 80vw;
+}
+
+.cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
+    margin-left: -300px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 100vw;
+}
+
+
+.musicCDS1 h2{
+    margin-left: -130px;
+    padding: 20px;
+}
+
+.musicCDS1 h3{
+    margin-left: -130px;
+    margin-top: -35px;
+    padding: 20px;
+}
+
+.musicCDS2 h2{
+    margin-left: -240px;
+    padding: 20px;
+}
+
+.musicCDS2 h3{
+    margin-left: -230px;
+    margin-top: -35px;
+    padding: 20px;
+}
+
+.musicCDS1 h2, h3{
+    margin-top: -30px;
+}
+
+.musicCDS2 h2, h3{
+    margin-top: -30px;
+}
+
