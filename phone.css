@@ -1,4 +1,4 @@
-*{
+.container{
     overflow-x: hidden;
 }
 
@@ -58,3 +58,67 @@ nav ul li a{
 .mainContent home{
     margin-top: -35px;
 }
+
+.musicCDS{
+    display: block;
+}
+
+.cd1, .cd2, .cd3, .cd5, .cd6{
+    margin-left: -115px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 95vw;
+}
+
+.cd4{
+    margin-left: -120px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 95vw;
+}
+
+.cd1A{
+      margin-top: -110px;
+      height: 45vh;
+      width: 80vw;
+}
+
+.cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
+    margin-left: -300px;
+    margin-right: 90px;
+    height: 45vh;
+    width: 100vw;
+}
+
+
+.musicCDS1 h2{
+    margin-left: -130px;
+    padding: 20px;
+}
+
+.musicCDS1 h3{
+    margin-left: -130px;
+    margin-top: -35px;
+    padding: 20px;
+}
+
+.musicCDS2 h2{
+    margin-left: -240px;
+    padding: 20px;
+}
+
+.musicCDS2 h3{
+    margin-left: -230px;
+    margin-top: -35px;
+    padding: 20px;
+}
+
+.musicCDS1 h2, h3{
+    margin-top: -30px;
+}
+
+.musicCDS2 h2, h3{
+    margin-top: -30px;
+}
+
+
