@@ -1,0 +1,82 @@
+.container{
+    overflow-x: hidden;
+}
+
+.main{
+    background-position: center;
+    background-size: cover;
+}
+
+.mainContent p{
+    margin-top: 40px;
+    margin-left:  -65px;
+    margin-right: -65px;
+    font-size: 15.5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 130%;
+    text-indent: 0%;
+}
+
+.logo img{
+    margin-left: 153px;
+}
+
+.navItems{
+    margin-left: 23px;
+}
+
+.navbar{
+    display: block;
+}
+
+nav ul li a{
+    padding: -25px;
+    width: auto;
+}
+
+.merch2pac{
+    display: block;
+}
+
+.merch2pac1 img{
+    margin-left: -80px;
+    height: 40vh auto;
+    width: 70vw;
+}
+
+.merch2pac1 h2{
+    margin-left: -130px;
+    padding: 20px;
+}
+
+.merch2pac1 h4{
+    margin-top: -25px;
+    margin-bottom: 50px;
+    margin-left: -130px;
+    padding: 10px;
+}
+
+.merch2pac2 img{
+    margin-top: -90px;
+    margin-left: -380px;
+    height: 30vh auto;
+    width: 70vw;
+}
+
+.merch2pac2 h2{
+    margin-left: -480px;
+    padding: 10px;
+}
+
+.merch2pac2 h4{
+    margin-top: -25px;
+    margin-bottom: 120px;
+    margin-left: -500px;
+    padding: 20px;
+}
+
+
