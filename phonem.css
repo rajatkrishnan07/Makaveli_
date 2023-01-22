@@ -10,9 +10,15 @@
 .mainContent p{
     margin-top: 40px;
     margin-left:  -65px;
-    margin-right: -75px;
-    font-size: 16px;
-    font-family:monospace;
+    margin-right: -65px;
+    font-size: 15.5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 130%;
+    text-indent: 0%;
 }
 
 .logo img{
@@ -37,27 +43,27 @@ nav ul li a{
 }
 
 .cd1, .cd2, .cd3, .cd5, .cd6{
-    margin-left: -95px;
+    margin-left: -100px;
     margin-right: 90px;
     height: 45vh;
     width: 90vw;
 }
 
 .cd4{
-    margin-left: -95px;
+    margin-left: -120px;
     margin-right: 90px;
-    height: 45vh;
-    width: 90vw;
+    height: 48vh;
+    width: 95vw;
 }
 
 .cd1A{
-      margin-top: -100px;
+      margin-top: -120px;
       height: 45vh;
       width: 90vw;
 }
 
 .cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
-    margin-left: -290px;
+       margin-left: -290px;
     margin-right: 90px;
     height: 45vh;
     width: 90vw;
@@ -65,19 +71,19 @@ nav ul li a{
 
 
 .musicCDS1 h2{
-    margin-left: -130px;
-    padding: 20px;
+    margin-left: -120px;
+    padding: 35px;
 }
 
 .musicCDS1 h3{
-    margin-left: -130px;
+    margin-left: -200px;
     margin-top: -35px;
     padding: 20px;
 }
 
 .musicCDS2 h2{
     margin-left: -240px;
-    padding: 20px;
+    padding: 10px 40px;
 }
 
 .musicCDS2 h3{
