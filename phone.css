@@ -39,18 +39,21 @@ nav ul li a{
     height: 23.1vh;
     width: 100vw;
     margin-left: -90px;
+    padding: 0px;
 }
 
 .pic2{
     height: 23.1vh;
     width: 100vw;
-    margin-left: -110px;
+    margin-left: -90px;
+    padding: 0px;
 }
 
 .pic3{
     height: 23.1vh;
     width: 100vw;
-    margin-left: -110px;
+    margin-left: -90px;
+    padding: 0px;
 }
 
 .mainContent p{
