@@ -7,6 +7,10 @@
     background-size: cover;
 }
 
+.main h3{
+    margin-left: -40px;
+}
+
 .mainContent p{
     margin-top: 40px;
     margin-left:  -65px;
