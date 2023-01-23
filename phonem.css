@@ -21,20 +21,15 @@
     text-indent: 0%;
 }
 
-.logo img{
-    margin-left: 153px;
-}
-
-.navItems{
-    margin-left: 23px;
-}
-
-.navbar{
-    display: block;
+.navbar nav ul li{
+    display: inline;
+    margin-left: 3.5px;
+    list-style-type: none;
+    text-decoration: none;
 }
 
 nav ul li a{
-    padding: -25px;
+    padding: 5px;
     width: auto;
 }
 
@@ -63,7 +58,7 @@ nav ul li a{
 }
 
 .cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
-       margin-left: -290px;
+    margin-left: -290px;
     margin-right: 90px;
     height: 45vh;
     width: 90vw;
