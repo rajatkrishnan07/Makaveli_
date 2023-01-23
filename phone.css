@@ -1,19 +1,22 @@
 
 *{
-    position: relative;
+   overflow-x: hidden;
 }
 
-.container{
-    overflow-x: hidden;
+.navbar nav ul li{
+    display: inline;
+    margin-left: 3.5px;
+    list-style-type: none;
+    text-decoration: none;
 }
 
-.navbar{
-    display: block;
+nav ul{
+    overflow-y: hidden;
 }
 
-.logo img{
-    margin-left: 153px;
-    height: 80px;
+nav ul li a{
+    padding: 5px;
+    width: auto;
 }
 
 nav ul{
@@ -36,37 +39,40 @@ nav ul li a{
 }
 
 .pic1{
-    height: 23.1vh auto;
-    width: 100vw;
-    margin-left: -90px;
-    padding: 0px;
+    height: 25vh auto;
+    width: 90vw;
+    margin-left: -72px;
 }
 
 .pic2{
-    height: 23.1vh auto;
-    width: 100vw;
-    margin-left: -90px;
-    padding: 0px;
+    height: 25vh auto;
+    width: 90vw;
+    margin-left: -72px;
 }
 
 .pic3{
-    height: 24.1vh auto;
-    width: 100vw;
-    margin-left: -90px;
-    padding: 0px;
+    height: 25vh auto;
+    width: 90vw;
+    margin-left: -72px;
 }
 
 .mainContent p{
-    margin-top: 40px;
-    margin-left: -65px;
-    margin-right: -65px;
+    margin-top: -20px;
+    margin-left: -125px;
+    margin-right: -125px;
     font-size: 16px;
-    line-height: 140%;
+    line-height: 145%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .mainContent home{
-    margin-top: -50px;
+    margin-top: -70px;
+    margin-left: 10px;
+}
+
+.mainContent h1{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
