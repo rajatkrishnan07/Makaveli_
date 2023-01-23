@@ -4,16 +4,16 @@
 
 .main{
     background-position: center;
-    background-size: cover;
+    background-size: cover;  
 }
 
 .main h3{
-    margin-left: -50px;
+    margin-left: -40px;
 }
 
 .mainContent p{
     margin-top: 40px;
-    margin-left: -65px;
+    margin-left:  -65px;
     margin-right: -65px;
     font-size: 15.5px;
     padding-top: 5px;
@@ -25,21 +25,20 @@
     text-indent: 0%;
 }
 
-.logo img{
-    margin-left: 153px;
+.navbar nav ul li{
+    display: inline;
+    margin-left: 3.5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+nav ul li a{
+    padding: 5px;
+    width: auto;
 }
 
 .navItems{
     margin-left: 23px;
-}
-
-.navbar{
-    display: block;
-}
-
-nav ul li a{
-    padding: -25px;
-    width: auto;
 }
 
 .merch2pac{
