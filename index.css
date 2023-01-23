@@ -1,29 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 *{
     padding: 0;
     margin: 0;
 }
 
+.container{
+    overflow-x: hidden;
+}
+
 .main{
     background-image: url("https://ic.c4assets.com/brands/who-killed-tupac/9737855e-ae1b-44d6-acdd-b13fa2642e00.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}");
     background-size: cover cover;
-    padding-top: 170px;
     min-height: 50vh;
+    padding-top: 170px;
     text-align: center;
-    font-size: 90px;
-    font-weight: bolder;
-    color: white;
     font-family: 'Satisfy', cursive;
-    padding-left: 10px;
-    align-items: center ;
-}
-
-.logo img{
-    height: 65px; padding: 5px;
-}
-
-.pic1, .pic2, .pic3{
-    padding: 20px;
+    font-size: 85px;
+    font-style: bold;
+    color: white;
+    font-family:'Satisfy',cursive;
+    padding-left: 30px;
+    align-items: center;
 }
 
 .navbar{
@@ -32,11 +30,10 @@
     color: white;
     padding: 0;
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    font-size: 14px;
     text-decoration: none;
 }
-
 
 .navItems{
     padding: 25px;
@@ -78,8 +75,10 @@ nav ul li a:hover {
 
 .mainContent p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18px;
-    margin: 25px 25px 35px 25px;
+    font-size: 17px;
+   padding: 60px;
+    margin-bottom: 10px;
+    margin-top: 30px;
 }
 
 .content{
@@ -95,3 +94,12 @@ nav ul li a:hover {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
 }
+
+.pic1, .pic2, .pic3{
+    margin-left: 50px;
+    height: 100vh auto;
+    width: 78vw;
+}
+
+
+
