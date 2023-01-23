@@ -36,21 +36,21 @@ nav ul li a{
 }
 
 .pic1{
-    height: 23.1vh;
+    height: 23.1vh auto;
     width: 100vw;
     margin-left: -90px;
     padding: 0px;
 }
 
 .pic2{
-    height: 23.1vh;
+    height: 23.1vh auto;
     width: 100vw;
     margin-left: -90px;
     padding: 0px;
 }
 
 .pic3{
-    height: 23.1vh;
+    height: 24.1vh auto;
     width: 100vw;
     margin-left: -90px;
     padding: 0px;
