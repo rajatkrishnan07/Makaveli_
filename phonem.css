@@ -7,17 +7,21 @@
     background-size: cover;
 }
 
+.main h3{
+    margin-top: 20%;
+}
+
 .mainContent p{
-    margin-top: 40px;
-    margin-left:  -65px;
-    margin-right: -65px;
+    margin-top: 15%;
+    margin-left:  -10%;
+    margin-right: -10%;
     font-size: 15.5px;
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    padding-left: 10px;
+    padding-top: 15%;
+    padding-right: 13%;
+    padding-bottom: 10%;
+    padding-left: 13%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    line-height: 130%;
+    line-height: 145%;
     text-indent: 0%;
 }
 
@@ -29,7 +33,6 @@
 }
 
 nav ul li a{
-    padding: 5px;
     width: auto;
 }
 
@@ -38,10 +41,11 @@ nav ul li a{
 }
 
 .cd1, .cd2, .cd3, .cd5, .cd6{
-    margin-left: -100px;
-    margin-right: 90px;
-    height: 45vh;
-    width: 90vw;
+    margin-top: 1%;
+    margin-left: 0%;
+    margin-right: 5%;
+    height: 42vh;
+    width: 85vw;
 }
 
 .cd4{
@@ -52,40 +56,46 @@ nav ul li a{
 }
 
 .cd1A{
-      margin-top: -120px;
-      height: 45vh;
-      width: 90vw;
+    margin-left: -7%;
+    margin-right: 0%;
+    height: 48vh;
+    width: 95vw;
+}
+
+.cd4text, .cd4text1{
+    margin-top: -2%;
 }
 
 .cd1A, .cd2A, .cd3A, .cd4A, .cd5A, .cd6A{
-    margin-left: -290px;
-    margin-right: 90px;
-    height: 45vh;
-    width: 90vw;
+    margin-top: -7%;
+    margin-left: -25%;
+    height: 50vh;
+    width: 93vw;
 }
 
 
 .musicCDS1 h2{
-    margin-left: -120px;
-    margin-top: -60px;
-    padding: 35px;
+    margin-left: -10%;
+    margin-top: -7%;
+    padding: 10%;
 }
 
 .musicCDS1 h3{
-    margin-left: -130px;
+    margin-left: -15%;
     margin-top: -60px;
     padding: 20px;
 }
 
 .musicCDS2 h2{
-    margin-left: -240px;
+    margin-left: -25%;
     padding: 10px 40px;
 }
 
 .musicCDS2 h3{
-    margin-left: -230px;
+    margin-left: -25%;
     margin-top: -35px;
     padding: 20px;
+    margin-bottom: 20%;
 }
 
 .musicCDS1 h2, h3{
