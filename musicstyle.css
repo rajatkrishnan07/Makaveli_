@@ -67,16 +67,15 @@ nav ul li a:hover {
 
 .musicCDS{
     display: flex;
-   margin-left: 120px;
-
-
+    margin-left: 8%;
+    justify-content: center;
 }
 
 .musicCDS1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .musicCDS2{
-    margin-left: 90px;
+    margin-left: 10%;
     padding: 90px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
