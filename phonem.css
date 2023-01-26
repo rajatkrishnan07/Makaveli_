@@ -5,6 +5,7 @@
 .main{
     background-position: center;
     background-size: cover;
+    min-height: 70vh;
 }
 
 .main h3{
