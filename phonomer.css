@@ -27,13 +27,12 @@
 
 .navbar nav ul li{
     display: inline;
-    margin-left: 3.5px;
+    margin-left: auto;
     list-style-type: none;
     text-decoration: none;
 }
 
-nav ul li a{
-    padding: 5px;
+nav ul li a{\
     width: auto;
 }
 
