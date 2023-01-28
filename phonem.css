@@ -10,17 +10,14 @@
 
 .main h3{
     margin-top: 20%;
+    font-family: 'Satisfy', cursive;
 }
 
 .mainContent p{
     margin-top: 15%;
-    margin-left:  -3%;
-    margin-right: -3%;
+    margin-left:  -35%;
+    margin-right: -35%;
     font-size: 15.5px;
-    padding-top: 7%;
-    padding-right: 7%;
-    padding-bottom: 7%;
-    padding-left: 7%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 145%;
     text-indent: 0%;
@@ -43,16 +40,16 @@ nav ul li a{
 
 .cd1, .cd2, .cd3, .cd5, .cd6{
     margin-top: 1%;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-right: 5%;
-    height: 40%;
-    width: 70%;
+    height: 60%;
+    width: 90%;
 }
 
 .cd4{
-    margin-left: 4%;
-    height: 42%;
-    width: 74%;
+    margin-left: -3%;
+    height: 70%;
+    width: 100%;
 }
 
 .cd4text, .cd4text1{
@@ -61,29 +58,29 @@ nav ul li a{
 
 .cd1A{
       margin-top: 0%;
-      height: 40%;
-      width: 70%;
+      height: 60%;
+      width: 90%;
 }
 
 .cd1A, .cd2A, .cd3A, .cd6A{
     margin-top: -7%;
-    margin-left: -15%;
-    height: 100%;
-    width: 100%;
+    margin-left: -25%;
+    height: 130%;
+    width: 130%;
 }
 
 .cd4A{
     margin-top: -7%;
-    margin-left: -18%;
-    height: 100%;
-    width: 100%;
+    margin-left: -25%;
+    height: 130%;
+    width: 130%;
 }
 
 .cd5A{
     margin-top: -7%;
-    margin-left: -13%;
-    height: 100%;
-    width: 100%;
+    margin-left: -25%;
+    height: 130%;
+    width: 130%;
 }
 
 
@@ -111,15 +108,13 @@ nav ul li a{
     margin-bottom: 20%;
 }
 
-.musicCDS1 h2{
+.musicCDS1 h2, h3{
     margin-top: -15%;
-}
-
-.musicCDS1 h3{
-    margin-top: -10%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .musicCDS2 h2, h3{
     margin-top: -15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
 }
 
