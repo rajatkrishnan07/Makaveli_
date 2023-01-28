@@ -18,6 +18,10 @@
     align-items: center;
 }
 
+.main h3{
+    margin-top: 20%;
+}
+
 .navbar{
     display: flex;
     background-color: black;
