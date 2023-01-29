@@ -5,6 +5,7 @@
 .main{
     background-position: center;
     background-size: cover;
+    min-height: 70vh;
 }
 
 .main h3{
@@ -14,8 +15,9 @@
 
 .mainContent p{
     margin-top: 15%;
-    margin-left:  -35%;
-    margin-right: -45%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 1%;
     font-size: 15.5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 145%;
